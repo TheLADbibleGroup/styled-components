@@ -1,4 +1,4 @@
-import * as ReactPrimitives from "react-primitives";
+import * as ReactPrimitives from "@theladbiblegroup/react-primitives";
 import * as React from "react";
 import { StatelessComponent, ComponentClass } from "react";
 

@@ -1,7 +1,7 @@
 // @flow
 
 /* eslint-disable import/no-unresolved */
-import reactPrimitives from 'react-primitives'
+import reactPrimitives from '@theladbiblegroup/react-primitives'
 
 import _InlineStyle from '../models/InlineStyle'
 import _StyledNativeComponent from '../models/StyledNativeComponent'
